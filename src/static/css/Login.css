@@ -1,0 +1,21 @@
+body{
+    background-color: 	#FFC0CB;
+}
+.login-div{
+    margin: 150px auto;
+    width: 400px;
+    
+}
+.ant-card{
+    background-color: 	#FFB6C1;
+    border: 1px solid #FFB6C1 !important;
+}
+
+.ant-card-head{
+    border-bottom: 1px solid #FFB6C1;
+    color:#fff;
+}
+.ant-btn {
+    background-color: #FFC0CB;
+    border-color: #FFC0CB;
+}

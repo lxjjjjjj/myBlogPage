@@ -1,0 +1,64 @@
+.logo {
+    height: 32px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 16px;
+  }
+body{
+    background-color: 	#FFC0CB;
+}
+.ant-layout-sider-children{
+    background-color: #FFB6C1;
+}
+.ant-menu{
+    background-color: #FFB6C1;
+}
+.ant-menu-item {
+    background-color: #FFB6C1;
+}
+.ant-menu-item-selected{
+    background-color: 	#DB7093 !important;
+}
+.ant-layout-sider-trigger{
+    background-color: #FFB6C1;
+}
+.ant-layout{
+    background-color: 	#FFC0CB;
+}
+.ant-layout-header{
+    background-color: 	#FFB6C1!important;
+}
+.ant-layout-footer{
+    background-color: 	#FFB6C1;
+    color:#fff;
+}
+.work{
+    padding: 24;
+    color:#fff;
+    min-height: 360 ;
+}
+.ant-layout-content{
+    background: 	#FFC0CB;
+}
+.ant-breadcrumb-link{
+    color:#fff;
+}
+.ant-breadcrumb-separator{
+    color:#fff;
+}
+.ant-menu-item{
+    background-color: #FFB6C1 !important;
+}
+.ant-menu-item:hover{
+    background-color: #DB7093 !important;
+}
+.ant-menu-item-active{
+    background-color: #DB7093 !important;
+}
+.ant-menu-sub {
+    background-color: #FFB6C1 !important;
+    -webkit-box-shadow: 0 2px 8px #FFB6C1 !important;
+    box-shadow: 0 2px 8px #FFB6C1 !important;
+}
+.ant-menu-inline{
+    background-color: #FFB6C1 !important;
+}
